@@ -7,6 +7,7 @@
       <tr>
         <td height="152" align="left" valign="top"> 
 	
+	
 		<form method="POST" action="/logistics/login_config.jsp" name="form_u">
 		<table width="100%" height="172"  border="0" cellpadding="0" cellspacing="0">
       <tr>
